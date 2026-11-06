@@ -1,0 +1,763 @@
+Emp_ID,Age,Gender,Department,Education_Level,Years_Experience,Monthly_Salary,Performance_Score,Overtime_Hours,Remote_Work
+EMP1000,30.0,Male,Data Science,Bachelor's,7.0,70430.52,2.6,13.0,No
+EMP1001,,Male,Operations,PhD,5.0,64928.44,3.9,10.0,No
+EMP1002,25.0,Male,Finance,Master's,1.0,45872.88,5.0,14.0,No
+EMP1003,56.0,Male,Sales,Bachelor's,33.0,154776.92,2.7,8.0,Yes
+EMP1004,38.0,Male,IT,Bachelor's,13.0,86023.27,3.2,12.0,No
+EMP1005,55.0,Male,IT,Master's,33.0,163459.5,3.8,13.0,No
+EMP1006,45.0,Female,IT,Master's,23.0,125520.92,3.5,10.0,Yes
+EMP1007,53.0,Male,Marketing,Bachelor's,28.0,138255.68,2.7,9.0,No
+EMP1008,22.0,Female,Sales,PhD,0.0,54292.26,4.4,9.0,Yes
+EMP1009,29.0,Female,Finance,Master's,4.0,59826.9,5.0,11.0,Yes
+EMP1010,44.0,Female,IT,Bachelor's,20.0,115191.19,3.7,11.0,Yes
+EMP1011,33.0,Female,Operations,Bachelor's,8.0,55757.04,2.8,17.0,No
+EMP1012,33.0,Female,Marketing,Bachelor's,9.0,67001.62,2.3,12.0,Yes
+EMP1013,36.0,Male,IT,Master's,13.0,95248.98,3.7,11.0,No
+EMP1014,40.0,Male,IT,Bachelor's,15.0,110603.97,4.4,14.0,No
+EMP1015,47.0,Male,IT,Master's,24.0,128440.16,3.9,19.0,Yes
+EMP1016,50.0,Female,Data Science,Master's,28.0,161320.89,3.5,10.0,No
+EMP1017,43.0,Female,Sales,PhD,19.0,121484.29,3.0,9.0,No
+EMP1018,42.0,Male,Human Resources,Bachelor's,17.0,,2.6,15.0,No
+EMP1019,59.0,Female,Data Science,Master's,36.0,190793.1,4.2,11.0,No
+EMP1020,41.0,Male,Sales,Bachelor's,17.0,99360.53,4.2,13.0,No
+EMP1021,50.0,Female,IT,Master's,26.0,142945.8,2.3,15.0,Yes
+EMP1022,25.0,Male,Data Science,Bachelor's,3.0,61234.4,4.8,17.0,No
+EMP1023,28.0,Male,Data Science,Bachelor's,6.0,78117.84,4.0,19.0,Yes
+EMP1024,49.0,Male,Human Resources,Master's,25.0,130982.35,4.6,10.0,No
+EMP1025,49.0,Male,Finance,Bachelor's,25.0,126371.61,2.4,11.0,Yes
+EMP1026,25.0,Male,IT,Bachelor's,0.0,38403.76,2.4,11.0,No
+EMP1027,43.0,Male,Sales,Master's,19.0,108485.1,3.4,9.0,No
+EMP1028,33.0,Female,Sales,Master's,8.0,66999.81,3.9,10.0,No
+EMP1029,24.0,Male,IT,Master's,0.0,49682.38,4.9,8.0,Yes
+EMP1030,43.0,Male,Sales,Master's,21.0,122687.19,4.1,11.0,No
+EMP1031,23.0,Female,IT,Bachelor's,0.0,42713.49,3.3,8.0,No
+EMP1032,45.0,Female,IT,Bachelor's,22.0,121785.88,2.7,14.0,No
+EMP1033,55.0,Male,Operations,Bachelor's,33.0,150790.11,4.5,14.0,Yes
+EMP1034,48.0,Male,Operations,Bachelor's,23.0,119742.15,2.7,12.0,No
+EMP1035,22.0,Male,Finance,PhD,,42765.55,4.8,14.0,No
+EMP1036,29.0,Male,Data Science,Master's,6.0,73966.5,3.3,12.0,Yes
+EMP1037,44.0,Female,IT,Bachelor's,19.0,112556.42,4.8,14.0,No
+EMP1038,59.0,Male,Sales,Bachelor's,35.0,166500.39,4.0,11.0,No
+EMP1039,27.0,Male,Human Resources,PhD,4.0,56540.49,3.4,14.0,No
+EMP1040,43.0,Female,IT,Bachelor's,21.0,109117.24,3.1,16.0,Yes
+EMP1041,46.0,Male,Human Resources,Master's,24.0,125098.56,3.2,11.0,No
+EMP1042,39.0,Female,IT,Bachelor's,15.0,94323.19,3.8,9.0,No
+EMP1043,38.0,Male,Marketing,Master's,16.0,92051.67,3.6,13.0,Yes
+EMP1044,33.0,Female,Data Science,Bachelor's,8.0,75878.27,3.0,10.0,No
+EMP1045,,Male,Sales,PhD,2.0,56077.37,3.4,16.0,No
+EMP1046,47.0,Female,Data Science,PhD,23.0,140476.28,3.6,8.0,No
+EMP1047,48.0,Female,Sales,Master's,26.0,122972.17,1.8,10.0,Yes
+EMP1048,29.0,Male,Sales,Master's,7.0,71985.33,3.9,12.0,No
+EMP1049,40.0,Female,IT,PhD,16.0,119374.38,2.7,8.0,No
+EMP1050,22.0,Female,Operations,Master's,0.0,43257.61,2.6,19.0,Yes
+EMP1051,50.0,Female,Finance,Bachelor's,28.0,134311.57,2.2,12.0,Yes
+EMP1052,56.0,Female,Operations,Master's,33.0,154492.54,2.1,7.0,No
+EMP1053,35.0,Female,Marketing,Master's,13.0,87467.39,2.4,10.0,No
+EMP1054,56.0,Male,Sales,Bachelor's,34.0,159993.97,2.9,3.0,Yes
+EMP1055,41.0,Male,Operations,Master's,19.0,109841.7,5.0,15.0,No
+EMP1056,34.0,Female,IT,PhD,12.0,95329.13,3.1,12.0,Yes
+EMP1057,59.0,Male,IT,PhD,34.0,176409.98,3.6,11.0,No
+EMP1058,29.0,Female,IT,Bachelor's,6.0,68286.4,3.8,15.0,No
+EMP1059,,Female,Data Science,Bachelor's,18.0,121279.11,3.6,11.0,No
+EMP1060,54.0,Male,Data Science,High School,32.0,163522.53,3.4,12.0,Yes
+EMP1061,47.0,Male,Data Science,Master's,25.0,147445.28,2.5,10.0,No
+EMP1062,42.0,Female,Marketing,Bachelor's,19.0,103919.13,4.7,12.0,Yes
+EMP1063,30.0,Male,Data Science,PhD,5.0,,4.9,8.0,Yes
+EMP1064,45.0,Female,Data Science,Master's,21.0,131548.81,2.2,10.0,No
+EMP1065,58.0,Male,Sales,Bachelor's,,152694.56,2.7,5.0,No
+EMP1066,38.0,Female,IT,Master's,15.0,109516.85,3.3,6.0,Yes
+EMP1067,45.0,Male,Finance,Bachelor's,23.0,125989.52,2.7,11.0,No
+EMP1068,42.0,Female,IT,Bachelor's,20.0,112784.78,3.9,9.0,No
+EMP1069,34.0,Male,Operations,Bachelor's,9.0,64102.54,2.9,6.0,Yes
+EMP1070,32.0,Female,Finance,Master's,8.0,76482.88,5.0,10.0,No
+EMP1071,40.0,Male,IT,Bachelor's,15.0,99815.92,4.5,18.0,No
+EMP1072,32.0,Female,IT,Bachelor's,8.0,73986.46,3.7,6.0,No
+EMP1073,34.0,Female,Finance,Bachelor's,11.0,82056.54,4.3,21.0,No
+EMP1074,22.0,Male,Finance,Bachelor's,0.0,50499.79,4.4,11.0,No
+EMP1075,,Male,Finance,PhD,15.0,111857.72,3.0,10.0,Yes
+EMP1076,33.0,Male,Finance,Bachelor's,8.0,70953.18,2.8,12.0,No
+EMP1077,29.0,Female,IT,Bachelor's,4.0,63706.55,3.6,16.0,No
+EMP1078,29.0,Female,Data Science,Master's,6.0,71837.38,4.2,13.0,Yes
+EMP1079,33.0,Female,IT,Bachelor's,9.0,78489.64,3.6,12.0,No
+EMP1080,54.0,Male,Marketing,Bachelor's,30.0,151046.53,2.2,13.0,No
+EMP1081,47.0,Male,Sales,Bachelor's,22.0,113909.77,2.9,15.0,No
+EMP1082,49.0,Female,Data Science,Bachelor's,,134261.83,3.4,11.0,Yes
+EMP1083,,Male,IT,Bachelor's,4.0,55739.56,3.4,11.0,Yes
+EMP1084,29.0,Other,Data Science,Bachelor's,7.0,70051.83,5.0,12.0,No
+EMP1085,46.0,Male,Data Science,Bachelor's,24.0,131076.19,2.4,13.0,Yes
+EMP1086,48.0,Female,Finance,PhD,24.0,136147.46,3.9,16.0,No
+EMP1087,44.0,Male,Sales,Bachelor's,21.0,104472.16,4.7,9.0,Yes
+EMP1088,51.0,Male,Marketing,Master's,28.0,140078.09,5.0,9.0,Yes
+EMP1089,44.0,Female,Human Resources,Master's,21.0,116011.39,3.2,14.0,Yes
+EMP1090,41.0,Female,IT,Bachelor's,18.0,103461.22,3.9,13.0,Yes
+EMP1091,39.0,Other,Finance,Master's,,,4.0,7.0,No
+EMP1092,39.0,Male,Finance,Bachelor's,17.0,104053.96,3.7,17.0,No
+EMP1093,23.0,Male,Sales,High School,0.0,40152.9,3.4,14.0,Yes
+EMP1094,25.0,Female,Finance,Bachelor's,1.0,42210.83,3.8,6.0,Yes
+EMP1095,51.0,Female,Human Resources,Bachelor's,27.0,131772.63,1.5,11.0,No
+EMP1096,54.0,Male,Sales,Bachelor's,31.0,141040.33,4.0,20.0,Yes
+EMP1097,57.0,Male,Human Resources,High School,35.0,156951.24,3.6,10.0,No
+EMP1098,39.0,Male,IT,Bachelor's,16.0,101859.2,3.3,10.0,No
+EMP1099,58.0,Female,IT,Master's,33.0,168266.26,5.0,14.0,No
+EMP1100,40.0,Male,IT,Bachelor's,16.0,95122.03,3.0,15.0,No
+EMP1101,49.0,Male,Sales,Master's,25.0,126024.65,3.2,10.0,No
+EMP1102,41.0,Male,Data Science,Bachelor's,18.0,116986.14,5.0,12.0,No
+EMP1103,54.0,Male,Sales,PhD,29.0,146758.26,2.8,8.0,Yes
+EMP1104,33.0,Male,Marketing,Bachelor's,9.0,70816.03,3.1,11.0,Yes
+EMP1105,36.0,Male,IT,Bachelor's,11.0,76664.31,3.4,14.0,Yes
+EMP1106,,Male,Human Resources,Bachelor's,0.0,37240.87,4.2,13.0,No
+EMP1107,50.0,Female,Finance,Bachelor's,27.0,130337.38,3.7,14.0,No
+EMP1108,31.0,Male,IT,Master's,9.0,84261.5,2.5,13.0,No
+EMP1109,23.0,Female,IT,Bachelor's,0.0,48128.15,3.1,9.0,Yes
+EMP1110,32.0,Female,Data Science,Master's,10.0,87516.14,3.0,12.0,No
+EMP1111,34.0,Female,IT,Bachelor's,9.0,79410.13,3.4,6.0,No
+EMP1112,31.0,Male,Operations,Bachelor's,9.0,67802.21,3.8,10.0,Yes
+EMP1113,35.0,Male,Finance,Bachelor's,10.0,74305.79,3.8,12.0,No
+EMP1114,39.0,Male,Sales,Bachelor's,15.0,85457.23,2.1,10.0,Yes
+EMP1115,30.0,Female,Marketing,Master's,6.0,53186.87,4.4,9.0,No
+EMP1116,49.0,Other,Finance,Bachelor's,25.0,131248.25,3.7,14.0,Yes
+EMP1117,,Female,IT,Bachelor's,1.0,40675.99,4.6,11.0,No
+EMP1118,41.0,Female,Marketing,Master's,18.0,105476.72,3.9,15.0,No
+EMP1119,27.0,Female,Sales,PhD,2.0,55682.76,4.4,5.0,No
+EMP1120,48.0,Male,Finance,Bachelor's,24.0,129395.71,3.9,9.0,No
+EMP1121,23.0,Male,Marketing,Bachelor's,0.0,35489.77,4.6,16.0,No
+EMP1122,50.0,Female,Data Science,Master's,26.0,145352.76,3.9,14.0,No
+EMP1123,59.0,Female,IT,Bachelor's,36.0,174659.35,3.4,10.0,No
+EMP1124,24.0,Male,IT,Bachelor's,2.0,53675.29,5.0,15.0,Yes
+EMP1125,37.0,Female,Human Resources,Bachelor's,15.0,87080.78,4.2,16.0,No
+EMP1126,51.0,Male,Finance,Master's,27.0,143846.34,4.0,11.0,Yes
+EMP1127,23.0,Male,Marketing,Master's,0.0,34322.14,2.5,9.0,Yes
+EMP1128,38.0,Male,IT,Bachelor's,15.0,101283.94,2.5,8.0,No
+EMP1129,33.0,Male,Sales,Bachelor's,10.0,76062.34,3.7,13.0,No
+EMP1130,56.0,Female,Human Resources,Bachelor's,34.0,146916.58,3.6,12.0,Yes
+EMP1131,22.0,Male,IT,Master's,0.0,48779.6,3.0,13.0,No
+EMP1132,36.0,Female,IT,Bachelor's,11.0,83303.46,3.6,12.0,No
+EMP1133,47.0,Female,Data Science,Bachelor's,22.0,127327.52,4.8,9.0,No
+EMP1134,58.0,Female,Operations,Master's,33.0,157169.3,4.1,10.0,Yes
+EMP1135,42.0,Male,Data Science,Bachelor's,18.0,121156.83,2.6,12.0,No
+EMP1136,52.0,Male,Sales,Master's,30.0,153408.83,3.4,9.0,Yes
+EMP1137,46.0,Male,Finance,Bachelor's,,112438.9,2.9,7.0,No
+EMP1138,44.0,Other,Data Science,Bachelor's,22.0,131110.35,3.2,15.0,Yes
+EMP1139,45.0,Female,Operations,Bachelor's,23.0,122144.67,3.2,7.0,Yes
+EMP1140,59.0,Male,Operations,Master's,36.0,167934.04,3.1,16.0,No
+EMP1141,49.0,Female,Data Science,Master's,27.0,155954.9,2.5,13.0,No
+EMP1142,42.0,Male,Human Resources,Master's,20.0,118061.35,3.4,12.0,Yes
+EMP1143,39.0,Female,Data Science,Bachelor's,15.0,108618.55,3.1,13.0,Yes
+EMP1144,57.0,Male,Data Science,Master's,35.0,179746.54,1.2,11.0,No
+EMP1145,56.0,Female,IT,Bachelor's,32.0,162225.44,5.0,12.0,Yes
+EMP1146,30.0,Male,Sales,Bachelor's,5.0,56224.44,4.4,14.0,No
+EMP1147,59.0,Female,Sales,PhD,37.0,179619.52,3.2,8.0,Yes
+EMP1148,51.0,Female,IT,Bachelor's,29.0,144742.93,3.5,8.0,Yes
+EMP1149,55.0,Female,Data Science,Bachelor's,31.0,167317.07,2.6,12.0,Yes
+EMP1150,53.0,Male,Marketing,Bachelor's,28.0,130907.86,4.9,7.0,No
+EMP1151,24.0,Male,IT,Bachelor's,1.0,56161.84,5.0,13.0,Yes
+EMP1152,24.0,Male,IT,Bachelor's,0.0,47499.32,3.6,7.0,Yes
+EMP1153,49.0,Male,Human Resources,Master's,25.0,118503.47,4.3,9.0,No
+EMP1154,36.0,Male,Operations,Bachelor's,11.0,75338.25,3.6,9.0,No
+EMP1155,44.0,Female,IT,PhD,20.0,116499.87,2.4,19.0,Yes
+EMP1156,32.0,Female,Sales,Master's,8.0,74127.54,3.2,7.0,No
+EMP1157,53.0,Male,Finance,Bachelor's,30.0,151426.16,3.6,9.0,No
+EMP1158,57.0,Male,IT,Bachelor's,35.0,164538.22,3.1,9.0,Yes
+EMP1159,54.0,Male,Finance,Bachelor's,30.0,147617.74,3.3,18.0,Yes
+EMP1160,45.0,Female,Data Science,Master's,21.0,139270.79,3.4,14.0,No
+EMP1161,55.0,Male,Sales,Bachelor's,32.0,147471.27,3.4,24.0,No
+EMP1162,49.0,Female,Sales,Master's,25.0,125205.46,3.5,14.0,No
+EMP1163,58.0,Male,Sales,Bachelor's,36.0,171408.32,2.7,18.0,Yes
+EMP1164,28.0,Other,IT,Master's,5.0,77312.94,2.9,12.0,Yes
+EMP1165,25.0,Female,Marketing,Bachelor's,3.0,47518.48,2.5,11.0,No
+EMP1166,58.0,Male,Data Science,Bachelor's,36.0,182057.32,4.3,18.0,Yes
+EMP1167,22.0,Female,IT,PhD,0.0,63707.38,1.8,10.0,No
+EMP1168,22.0,Male,IT,Master's,0.0,46287.58,4.4,10.0,No
+EMP1169,41.0,Female,Sales,Bachelor's,19.0,102073.47,4.6,10.0,Yes
+EMP1170,40.0,Male,Sales,Master's,18.0,112154.37,3.3,14.0,No
+EMP1171,50.0,Female,IT,Bachelor's,28.0,151425.07,1.4,9.0,No
+EMP1172,31.0,Female,Sales,PhD,9.0,84314.4,3.2,7.0,No
+EMP1173,,Female,IT,Master's,16.0,101600.93,3.4,11.0,Yes
+EMP1174,49.0,Female,Sales,Bachelor's,26.0,138935.31,2.7,6.0,Yes
+EMP1175,56.0,Male,IT,Bachelor's,31.0,150845.15,3.1,16.0,No
+EMP1176,52.0,Male,Sales,Bachelor's,27.0,130824.31,4.7,11.0,Yes
+EMP1177,48.0,Male,Data Science,Bachelor's,26.0,143711.69,4.0,17.0,No
+EMP1178,32.0,Male,Operations,Master's,8.0,75770.8,2.8,12.0,Yes
+EMP1179,59.0,Female,IT,Bachelor's,37.0,178769.88,2.2,7.0,No
+EMP1180,26.0,Male,Data Science,Bachelor's,2.0,60074.33,3.2,11.0,Yes
+EMP1181,29.0,Female,IT,Master's,7.0,76816.44,3.3,12.0,No
+EMP1182,55.0,Female,Operations,High School,30.0,137217.57,3.9,15.0,Yes
+EMP1183,33.0,Female,Marketing,Bachelor's,8.0,67790.7,3.1,8.0,No
+EMP1184,59.0,Male,Data Science,Bachelor's,35.0,160852.2,3.9,8.0,Yes
+EMP1185,22.0,Female,Sales,Bachelor's,0.0,36516.96,5.0,13.0,No
+EMP1186,52.0,Female,Finance,Bachelor's,28.0,141206.61,4.2,13.0,Yes
+EMP1187,25.0,Male,Sales,PhD,0.0,44244.93,3.5,10.0,No
+EMP1188,26.0,Female,Sales,Bachelor's,4.0,53931.62,3.4,13.0,No
+EMP1189,51.0,Female,IT,Master's,29.0,150477.64,3.2,13.0,Yes
+EMP1190,45.0,Male,IT,Bachelor's,21.0,127277.38,4.4,15.0,No
+EMP1191,24.0,Male,Marketing,Master's,1.0,53365.1,3.0,9.0,Yes
+EMP1192,32.0,Male,Marketing,Master's,8.0,67670.97,3.5,7.0,No
+EMP1193,25.0,Male,Sales,Master's,0.0,42245.81,3.5,8.0,No
+EMP1194,47.0,Male,Data Science,Bachelor's,22.0,127630.26,3.1,16.0,Yes
+EMP1195,48.0,Male,Data Science,Bachelor's,23.0,129241.7,2.4,13.0,Yes
+EMP1196,48.0,Male,Finance,Bachelor's,23.0,123475.12,3.8,16.0,Yes
+EMP1197,27.0,Male,Marketing,PhD,2.0,,3.5,13.0,No
+EMP1198,36.0,Female,Marketing,PhD,13.0,88846.92,3.9,20.0,Yes
+EMP1199,51.0,Female,Finance,Master's,29.0,151613.56,3.1,13.0,No
+EMP1200,58.0,Female,Sales,Master's,34.0,165147.65,4.5,14.0,No
+EMP1201,58.0,Male,IT,Master's,34.0,164978.42,2.8,9.0,No
+EMP1202,58.0,Male,IT,Bachelor's,,164976.78,4.9,18.0,Yes
+EMP1203,56.0,Male,Marketing,PhD,32.0,157842.11,2.1,8.0,No
+EMP1204,44.0,Male,Sales,Bachelor's,19.0,105765.83,3.8,12.0,No
+EMP1205,27.0,Male,IT,Bachelor's,4.0,63101.72,3.9,8.0,No
+EMP1206,25.0,Female,IT,Bachelor's,2.0,51831.94,2.9,9.0,Yes
+EMP1207,39.0,Male,Sales,Bachelor's,17.0,99773.7,3.8,14.0,Yes
+EMP1208,,Female,IT,Bachelor's,7.0,66917.85,4.5,15.0,Yes
+EMP1209,50.0,Female,IT,Master's,27.0,143517.67,1.7,11.0,No
+EMP1210,34.0,Male,Sales,Bachelor's,12.0,78970.7,3.9,10.0,Yes
+EMP1211,38.0,Male,Sales,Master's,14.0,88267.11,1.5,13.0,No
+EMP1212,53.0,Female,Sales,Bachelor's,28.0,135116.13,2.7,18.0,Yes
+EMP1213,43.0,Male,IT,Bachelor's,18.0,100256.91,4.8,17.0,No
+EMP1214,25.0,Male,Finance,Bachelor's,1.0,43044.23,3.0,14.0,No
+EMP1215,26.0,Other,IT,Bachelor's,4.0,57575.62,2.6,8.0,No
+EMP1216,58.0,Male,Data Science,Master's,34.0,173719.1,3.3,6.0,Yes
+EMP1217,34.0,Female,Finance,Bachelor's,11.0,79292.51,5.0,7.0,Yes
+EMP1218,55.0,Other,Sales,Master's,33.0,158191.18,2.0,15.0,Yes
+EMP1219,,Male,Marketing,Bachelor's,21.0,112897.21,2.7,7.0,Yes
+EMP1220,44.0,Male,Sales,Master's,22.0,124372.59,4.7,8.0,No
+EMP1221,24.0,Male,Sales,PhD,0.0,,5.0,16.0,No
+EMP1222,55.0,Male,IT,Master's,31.0,,3.4,14.0,No
+EMP1223,53.0,Male,Data Science,Bachelor's,31.0,154289.78,2.5,14.0,Yes
+EMP1224,,Female,Data Science,Bachelor's,20.0,118563.99,5.0,13.0,No
+EMP1225,42.0,Male,IT,Bachelor's,20.0,113240.39,4.8,17.0,No
+EMP1226,32.0,Male,Operations,Master's,8.0,64150.02,4.0,8.0,No
+EMP1227,25.0,Other,Data Science,Bachelor's,0.0,44519.42,2.9,9.0,Yes
+EMP1228,22.0,Female,Marketing,Bachelor's,0.0,34719.4,3.5,7.0,No
+EMP1229,49.0,Female,Sales,Master's,24.0,127907.13,3.4,18.0,No
+EMP1230,45.0,Male,Finance,Bachelor's,23.0,125475.15,3.8,13.0,No
+EMP1231,56.0,Female,Sales,Master's,31.0,148712.88,4.7,11.0,No
+EMP1232,34.0,Male,Sales,Bachelor's,9.0,67435.01,4.2,19.0,Yes
+EMP1233,55.0,Male,Human Resources,Bachelor's,32.0,140366.51,2.6,9.0,Yes
+EMP1234,32.0,Male,IT,Master's,8.0,77842.8,4.6,13.0,No
+EMP1235,57.0,Female,Finance,Bachelor's,33.0,153257.86,3.8,9.0,No
+EMP1236,38.0,Male,Data Science,Master's,13.0,104365.64,4.0,13.0,Yes
+EMP1237,56.0,Male,IT,Bachelor's,31.0,144570.67,4.7,16.0,No
+EMP1238,39.0,Male,Sales,Bachelor's,15.0,88701.85,2.6,14.0,No
+EMP1239,43.0,Male,IT,Master's,19.0,118005.54,3.5,13.0,No
+EMP1240,45.0,Female,Operations,Master's,22.0,117919.17,3.1,9.0,Yes
+EMP1241,40.0,Female,Operations,Master's,18.0,116465.17,2.2,12.0,No
+EMP1242,58.0,Female,Marketing,Bachelor's,33.0,154249.0,3.8,21.0,No
+EMP1243,42.0,Male,Data Science,Master's,18.0,113979.73,5.0,10.0,No
+EMP1244,29.0,Male,IT,Bachelor's,4.0,58522.68,2.0,11.0,No
+EMP1245,49.0,Male,Operations,Bachelor's,24.0,110118.77,3.5,13.0,No
+EMP1246,26.0,Male,Human Resources,PhD,2.0,51597.0,4.0,16.0,No
+EMP1247,38.0,Male,Operations,Bachelor's,15.0,83334.72,3.6,6.0,Yes
+EMP1248,58.0,Female,Operations,High School,33.0,152076.95,3.4,7.0,No
+EMP1249,57.0,Male,Marketing,Bachelor's,34.0,153252.3,2.5,18.0,No
+EMP1250,40.0,Male,Data Science,Bachelor's,16.0,106416.17,3.7,16.0,Yes
+EMP1251,48.0,Male,Data Science,Bachelor's,26.0,138822.21,2.9,14.0,No
+EMP1252,55.0,Male,Marketing,PhD,33.0,173194.26,1.7,8.0,No
+EMP1253,32.0,Male,Data Science,Master's,7.0,78893.79,4.5,13.0,No
+EMP1254,33.0,Female,IT,Master's,9.0,90662.79,4.3,10.0,Yes
+EMP1255,42.0,Female,Sales,Master's,19.0,113570.76,3.5,16.0,No
+EMP1256,32.0,Female,Operations,Master's,7.0,66910.33,3.7,15.0,Yes
+EMP1257,49.0,Male,Sales,Master's,25.0,132343.67,4.4,17.0,Yes
+EMP1258,26.0,Male,Sales,Bachelor's,2.0,46968.99,3.7,13.0,No
+EMP1259,38.0,Female,IT,Bachelor's,15.0,87861.64,4.2,11.0,Yes
+EMP1260,41.0,Male,Sales,Bachelor's,16.0,92605.58,3.3,6.0,No
+EMP1261,33.0,Female,Operations,High School,,67725.79,4.5,17.0,Yes
+EMP1262,27.0,Male,IT,PhD,3.0,67255.51,3.8,9.0,No
+EMP1263,38.0,Male,Sales,Bachelor's,14.0,79974.05,3.7,10.0,Yes
+EMP1264,40.0,Male,Marketing,Master's,17.0,101237.98,2.5,11.0,No
+EMP1265,47.0,Male,Finance,PhD,22.0,139520.53,3.7,8.0,No
+EMP1266,53.0,Female,Sales,Bachelor's,28.0,142234.46,2.8,11.0,No
+EMP1267,27.0,Male,Finance,Master's,2.0,53689.98,3.0,14.0,Yes
+EMP1268,57.0,Male,Data Science,PhD,32.0,179757.25,2.8,14.0,Yes
+EMP1269,59.0,Male,Data Science,Bachelor's,37.0,178667.46,2.6,16.0,No
+EMP1270,32.0,Male,Finance,Master's,10.0,73480.64,5.0,9.0,Yes
+EMP1271,54.0,Female,Finance,Bachelor's,29.0,138877.67,4.6,13.0,No
+EMP1272,45.0,Female,Marketing,PhD,22.0,133814.44,5.0,11.0,No
+EMP1273,44.0,Female,Marketing,High School,22.0,109630.03,2.5,16.0,Yes
+EMP1274,36.0,Female,Sales,PhD,12.0,90783.08,3.6,11.0,No
+EMP1275,48.0,Male,Sales,Bachelor's,26.0,127500.81,2.5,9.0,No
+EMP1276,32.0,Female,Finance,Master's,8.0,84520.68,2.9,12.0,Yes
+EMP1277,38.0,Male,Sales,Master's,13.0,96629.79,2.8,15.0,Yes
+EMP1278,35.0,Male,Finance,Bachelor's,13.0,98593.9,4.5,14.0,Yes
+EMP1279,48.0,Female,Finance,Master's,25.0,133704.77,3.2,12.0,No
+EMP1280,39.0,Male,Marketing,Bachelor's,17.0,97978.12,4.4,12.0,No
+EMP1281,49.0,Female,Data Science,Master's,27.0,142916.79,4.0,18.0,Yes
+EMP1282,25.0,Male,Data Science,Bachelor's,3.0,68884.67,5.0,20.0,Yes
+EMP1283,28.0,Female,IT,Bachelor's,3.0,49661.1,2.3,13.0,No
+EMP1284,56.0,Female,Sales,Bachelor's,33.0,154583.88,4.5,7.0,No
+EMP1285,30.0,Female,IT,Master's,8.0,72513.49,4.4,7.0,Yes
+EMP1286,29.0,Female,Human Resources,Bachelor's,6.0,51055.67,2.7,11.0,Yes
+EMP1287,38.0,Female,Sales,Master's,13.0,84313.69,4.3,9.0,Yes
+EMP1288,38.0,Male,Data Science,Bachelor's,14.0,96960.62,3.8,11.0,No
+EMP1289,54.0,Male,Sales,Bachelor's,32.0,147304.39,3.3,14.0,No
+EMP1290,53.0,Male,IT,Bachelor's,30.0,147258.66,2.8,12.0,Yes
+EMP1291,29.0,Female,IT,Master's,6.0,75166.67,2.9,10.0,No
+EMP1292,40.0,Male,Marketing,Bachelor's,15.0,83975.69,5.0,8.0,No
+EMP1293,59.0,Female,Data Science,Master's,37.0,186602.71,3.5,9.0,No
+EMP1294,24.0,Male,IT,PhD,0.0,63089.8,4.1,15.0,Yes
+EMP1295,26.0,Male,Sales,Master's,3.0,50934.02,2.9,6.0,No
+EMP1296,34.0,Female,Finance,Bachelor's,,80410.41,2.9,11.0,No
+EMP1297,52.0,Male,IT,Bachelor's,28.0,141847.38,4.4,14.0,No
+EMP1298,37.0,Male,Sales,PhD,14.0,104898.63,2.4,9.0,Yes
+EMP1299,53.0,Male,IT,Bachelor's,30.0,150970.54,3.2,11.0,Yes
+EMP1300,43.0,Female,IT,PhD,19.0,120843.93,3.5,21.0,Yes
+EMP1301,50.0,Female,Sales,Bachelor's,26.0,131419.38,3.6,10.0,No
+EMP1302,43.0,Male,Sales,PhD,18.0,107488.54,3.4,8.0,Yes
+EMP1303,24.0,Male,Sales,Master's,2.0,53406.8,3.8,15.0,No
+EMP1304,31.0,Male,Finance,High School,9.0,72543.04,4.1,10.0,Yes
+EMP1305,42.0,Female,Operations,Bachelor's,17.0,92960.96,4.1,11.0,Yes
+EMP1306,37.0,Female,Sales,Master's,14.0,87807.07,2.7,11.0,No
+EMP1307,33.0,Male,Data Science,Bachelor's,9.0,78066.6,3.3,12.0,Yes
+EMP1308,,Male,Finance,Bachelor's,0.0,44674.09,4.5,17.0,Yes
+EMP1309,45.0,Male,Data Science,Master's,21.0,135644.9,4.2,15.0,Yes
+EMP1310,56.0,Female,Human Resources,PhD,33.0,157313.46,2.4,10.0,No
+EMP1311,51.0,Female,IT,High School,27.0,138791.93,3.8,4.0,No
+EMP1312,51.0,Male,IT,Master's,27.0,134064.86,1.9,12.0,Yes
+EMP1313,56.0,Male,Operations,Bachelor's,31.0,140576.91,3.5,13.0,No
+EMP1314,,Male,Marketing,Bachelor's,17.0,96344.71,5.0,21.0,Yes
+EMP1315,29.0,Female,Sales,Master's,7.0,62951.58,2.7,8.0,Yes
+EMP1316,47.0,Male,Human Resources,Bachelor's,22.0,105317.47,2.8,12.0,Yes
+EMP1317,28.0,Female,IT,Bachelor's,3.0,52161.1,4.1,6.0,No
+EMP1318,51.0,Female,IT,Bachelor's,29.0,147960.96,2.3,12.0,Yes
+EMP1319,28.0,Male,Data Science,Bachelor's,3.0,60563.35,3.0,12.0,Yes
+EMP1320,24.0,Male,Sales,Bachelor's,,30308.84,4.0,14.0,Yes
+EMP1321,22.0,Male,Finance,Bachelor's,0.0,31396.5,3.0,12.0,Yes
+EMP1322,57.0,Female,Sales,Bachelor's,34.0,153965.67,3.3,13.0,No
+EMP1323,46.0,Female,Data Science,Bachelor's,24.0,137288.43,4.1,11.0,Yes
+EMP1324,58.0,Female,Operations,High School,36.0,144262.48,3.8,7.0,Yes
+EMP1325,22.0,Male,Finance,Bachelor's,0.0,39501.35,3.7,12.0,No
+EMP1326,36.0,Male,Sales,Bachelor's,13.0,80868.76,3.2,11.0,Yes
+EMP1327,58.0,Female,Sales,Master's,35.0,172441.69,3.8,16.0,No
+EMP1328,34.0,Female,Human Resources,Bachelor's,12.0,73074.89,3.4,6.0,No
+EMP1329,29.0,Male,IT,PhD,6.0,79914.94,3.9,17.0,Yes
+EMP1330,26.0,Female,Data Science,Master's,4.0,70706.29,3.1,14.0,No
+EMP1331,30.0,Female,Finance,Bachelor's,7.0,55847.17,3.4,13.0,Yes
+EMP1332,22.0,Female,IT,Bachelor's,0.0,48841.04,2.7,15.0,No
+EMP1333,57.0,Female,IT,PhD,34.0,,3.5,13.0,No
+EMP1334,56.0,Female,IT,PhD,34.0,178541.34,2.9,13.0,Yes
+EMP1335,23.0,Female,IT,Bachelor's,0.0,64631.19,2.6,11.0,No
+EMP1336,44.0,Male,Marketing,Master's,21.0,105079.44,3.7,14.0,No
+EMP1337,30.0,Male,Finance,Bachelor's,8.0,78623.48,3.7,7.0,No
+EMP1338,55.0,Female,Human Resources,High School,33.0,144062.76,4.1,12.0,No
+EMP1339,35.0,Male,IT,Bachelor's,12.0,88436.64,3.2,16.0,Yes
+EMP1340,25.0,Male,Human Resources,PhD,2.0,51772.44,3.8,12.0,Yes
+EMP1341,51.0,Male,Human Resources,Master's,26.0,126878.82,3.9,11.0,Yes
+EMP1342,52.0,Male,IT,Master's,30.0,152150.84,3.9,12.0,No
+EMP1343,59.0,Female,Human Resources,Bachelor's,37.0,164147.54,2.8,9.0,Yes
+EMP1344,32.0,Female,Data Science,Bachelor's,8.0,,3.6,12.0,No
+EMP1345,56.0,Male,Sales,Bachelor's,34.0,160752.9,3.8,7.0,Yes
+EMP1346,29.0,Male,Sales,Bachelor's,4.0,49919.03,3.5,20.0,Yes
+EMP1347,24.0,Male,IT,Bachelor's,0.0,39349.65,1.8,8.0,Yes
+EMP1348,35.0,Female,Data Science,Master's,11.0,92249.94,3.6,10.0,No
+EMP1349,34.0,Female,Sales,Bachelor's,,79285.75,5.0,10.0,No
+EMP1350,53.0,Male,Sales,Bachelor's,30.0,140323.32,3.2,12.0,No
+EMP1351,55.0,Female,Marketing,High School,32.0,147792.27,2.9,11.0,Yes
+EMP1352,40.0,Female,Sales,PhD,18.0,109345.22,3.8,9.0,No
+EMP1353,59.0,Female,IT,PhD,35.0,183289.61,3.7,15.0,Yes
+EMP1354,37.0,Female,IT,High School,12.0,87427.54,4.5,14.0,No
+EMP1355,23.0,Male,Sales,Bachelor's,0.0,47243.04,2.5,11.0,No
+EMP1356,38.0,Female,IT,Bachelor's,13.0,89622.18,4.1,10.0,Yes
+EMP1357,55.0,Male,Sales,Master's,30.0,151343.27,4.0,9.0,No
+EMP1358,37.0,Female,Operations,Master's,14.0,89490.34,3.4,10.0,No
+EMP1359,59.0,Female,Sales,Bachelor's,36.0,170479.36,3.8,10.0,Yes
+EMP1360,23.0,Female,Data Science,Master's,0.0,52405.84,4.3,7.0,No
+EMP1361,23.0,Female,Sales,Bachelor's,0.0,41725.03,4.2,12.0,No
+EMP1362,47.0,Male,Human Resources,Bachelor's,23.0,112526.51,2.6,18.0,Yes
+EMP1363,34.0,Female,Sales,Bachelor's,10.0,72679.06,4.2,9.0,Yes
+EMP1364,52.0,Other,Operations,Master's,28.0,138458.76,3.4,9.0,No
+EMP1365,55.0,Female,Data Science,Master's,31.0,165761.2,3.6,4.0,No
+EMP1366,24.0,Male,Operations,Bachelor's,2.0,41418.85,3.6,15.0,Yes
+EMP1367,29.0,Male,Marketing,PhD,5.0,67573.57,3.4,12.0,No
+EMP1368,44.0,Male,IT,Bachelor's,21.0,126390.59,4.5,8.0,No
+EMP1369,35.0,Female,IT,Bachelor's,10.0,84927.25,3.4,11.0,No
+EMP1370,48.0,Female,IT,PhD,24.0,145345.77,2.6,12.0,No
+EMP1371,50.0,Male,IT,High School,28.0,137722.3,3.2,11.0,No
+EMP1372,22.0,Male,IT,Master's,0.0,45553.8,3.6,13.0,Yes
+EMP1373,38.0,Female,Sales,Master's,13.0,93276.5,4.5,12.0,Yes
+EMP1374,51.0,Female,IT,Master's,26.0,145380.23,4.0,15.0,Yes
+EMP1375,34.0,Female,Data Science,Master's,10.0,98363.35,2.8,12.0,No
+EMP1376,42.0,Female,Marketing,Bachelor's,17.0,93480.1,5.0,13.0,No
+EMP1377,40.0,Male,IT,Bachelor's,16.0,99852.26,3.7,4.0,Yes
+EMP1378,40.0,Male,Finance,Bachelor's,16.0,89802.58,4.5,8.0,Yes
+EMP1379,46.0,Female,Data Science,Bachelor's,23.0,129537.64,3.4,8.0,No
+EMP1380,43.0,Female,IT,Master's,20.0,124982.85,3.9,9.0,Yes
+EMP1381,52.0,Female,Sales,Bachelor's,30.0,140667.52,4.2,9.0,No
+EMP1382,38.0,Female,Sales,Bachelor's,15.0,93702.4,4.5,5.0,No
+EMP1383,44.0,Female,Marketing,Bachelor's,21.0,109547.48,4.3,5.0,No
+EMP1384,53.0,Male,Finance,Master's,29.0,150120.29,4.2,12.0,Yes
+EMP1385,31.0,Male,Finance,Bachelor's,8.0,64261.54,3.2,13.0,Yes
+EMP1386,31.0,Male,Data Science,Master's,7.0,80926.05,3.0,8.0,No
+EMP1387,57.0,Male,IT,Bachelor's,33.0,145544.32,3.8,13.0,No
+EMP1388,29.0,Female,Finance,Bachelor's,6.0,62065.52,4.2,15.0,Yes
+EMP1389,41.0,Other,Finance,Master's,19.0,105347.63,3.3,7.0,Yes
+EMP1390,53.0,Male,Operations,Master's,31.0,154529.97,4.4,14.0,No
+EMP1391,35.0,Male,Human Resources,Bachelor's,10.0,71887.04,4.7,14.0,No
+EMP1392,49.0,Female,Data Science,Master's,24.0,142333.35,2.8,9.0,No
+EMP1393,45.0,Male,Finance,Master's,22.0,131605.03,2.8,9.0,No
+EMP1394,36.0,Female,Data Science,Bachelor's,14.0,95255.42,3.4,14.0,Yes
+EMP1395,43.0,Female,Operations,PhD,19.0,122236.82,3.7,18.0,Yes
+EMP1396,51.0,Female,Marketing,Master's,,137660.96,3.1,9.0,No
+EMP1397,25.0,Male,Human Resources,Master's,1.0,40317.22,4.6,11.0,No
+EMP1398,34.0,Male,Finance,Master's,9.0,84178.1,3.8,12.0,Yes
+EMP1399,44.0,Female,Finance,Master's,21.0,114968.53,3.5,11.0,Yes
+EMP1400,29.0,Female,IT,Master's,7.0,70377.43,2.4,8.0,No
+EMP1401,39.0,Male,Marketing,Master's,14.0,87957.05,2.4,11.0,Yes
+EMP1402,33.0,Female,Sales,Master's,11.0,78855.11,3.7,15.0,Yes
+EMP1403,52.0,Male,Marketing,Master's,28.0,134717.21,1.8,8.0,No
+EMP1404,35.0,Female,Data Science,Master's,12.0,104115.42,4.3,7.0,No
+EMP1405,55.0,Male,Marketing,Master's,33.0,156205.73,3.4,15.0,No
+EMP1406,39.0,Female,Data Science,Bachelor's,16.0,108762.52,5.0,12.0,Yes
+EMP1407,,Male,IT,PhD,33.0,169648.24,5.0,11.0,No
+EMP1408,32.0,Male,Marketing,PhD,8.0,67896.98,3.4,13.0,No
+EMP1409,33.0,Male,IT,Bachelor's,9.0,77850.29,3.4,18.0,No
+EMP1410,36.0,Male,Data Science,Master's,13.0,91938.73,4.3,12.0,No
+EMP1411,,Female,Operations,Bachelor's,28.0,132656.83,4.9,15.0,Yes
+EMP1412,50.0,Other,Operations,Bachelor's,25.0,115658.42,2.2,8.0,Yes
+EMP1413,47.0,Male,Sales,Master's,25.0,140436.38,2.1,14.0,Yes
+EMP1414,39.0,Male,Sales,Bachelor's,15.0,95056.81,3.0,12.0,Yes
+EMP1415,53.0,Female,Human Resources,Master's,28.0,136528.77,4.0,10.0,No
+EMP1416,43.0,Female,Data Science,Master's,20.0,132318.53,3.9,11.0,No
+EMP1417,59.0,Female,Data Science,Bachelor's,34.0,165768.42,4.4,13.0,No
+EMP1418,38.0,Male,Sales,Bachelor's,15.0,93217.4,2.5,16.0,No
+EMP1419,44.0,Male,Finance,Bachelor's,,116499.05,1.6,16.0,Yes
+EMP1420,45.0,Female,Finance,Master's,23.0,128820.1,4.2,10.0,Yes
+EMP1421,29.0,Male,Finance,High School,7.0,69861.77,2.8,13.0,Yes
+EMP1422,27.0,Female,IT,Master's,2.0,60662.46,1.9,9.0,Yes
+EMP1423,26.0,Male,Human Resources,Bachelor's,4.0,48443.62,3.6,16.0,Yes
+EMP1424,50.0,Female,IT,Master's,28.0,139725.56,4.1,16.0,No
+EMP1425,49.0,Male,Sales,Bachelor's,27.0,,3.4,15.0,No
+EMP1426,32.0,Female,Human Resources,Master's,7.0,61886.46,3.1,9.0,Yes
+EMP1427,22.0,Male,Marketing,Bachelor's,0.0,37466.86,3.4,17.0,Yes
+EMP1428,40.0,Female,Data Science,Master's,18.0,113348.98,3.2,8.0,No
+EMP1429,30.0,Male,IT,Bachelor's,8.0,85058.38,2.4,20.0,Yes
+EMP1430,48.0,Female,IT,High School,23.0,130081.97,2.9,10.0,No
+EMP1431,55.0,Female,Finance,Bachelor's,31.0,153510.59,3.9,14.0,No
+EMP1432,25.0,Female,Sales,Master's,3.0,53860.18,3.8,15.0,No
+EMP1433,57.0,Female,IT,PhD,34.0,174938.96,3.6,12.0,Yes
+EMP1434,39.0,Female,IT,Bachelor's,14.0,89240.41,2.7,11.0,No
+EMP1435,36.0,Female,Finance,PhD,14.0,103387.4,3.4,11.0,No
+EMP1436,34.0,Male,IT,Master's,12.0,93288.76,1.8,12.0,No
+EMP1437,40.0,Female,Marketing,Bachelor's,17.0,90291.2,3.6,10.0,No
+EMP1438,27.0,Male,Finance,Bachelor's,4.0,,4.6,14.0,Yes
+EMP1439,33.0,Male,IT,Master's,8.0,77223.7,2.3,14.0,No
+EMP1440,58.0,Male,IT,Bachelor's,33.0,150960.96,3.0,14.0,No
+EMP1441,38.0,Male,Operations,Master's,15.0,88198.07,3.8,13.0,No
+EMP1442,44.0,Female,Data Science,Bachelor's,19.0,115431.97,4.5,12.0,No
+EMP1443,47.0,Female,Data Science,Master's,24.0,149438.44,3.1,6.0,No
+EMP1444,50.0,Female,Finance,Bachelor's,28.0,142782.77,2.9,20.0,Yes
+EMP1445,,Male,Operations,PhD,31.0,148822.59,1.9,12.0,No
+EMP1446,48.0,Male,Operations,High School,25.0,121930.18,3.6,12.0,No
+EMP1447,46.0,Male,Finance,High School,22.0,108263.48,5.0,9.0,No
+EMP1448,31.0,Male,Data Science,Master's,8.0,89413.46,3.7,8.0,No
+EMP1449,44.0,Male,IT,Bachelor's,21.0,116144.38,3.5,12.0,Yes
+EMP1450,42.0,Male,Finance,Master's,18.0,109531.82,3.8,9.0,No
+EMP1451,42.0,Male,Sales,Bachelor's,17.0,104128.98,3.5,11.0,Yes
+EMP1452,34.0,Female,Human Resources,Bachelor's,10.0,61564.18,2.8,13.0,Yes
+EMP1453,58.0,Female,Marketing,Bachelor's,36.0,156014.41,4.2,12.0,No
+EMP1454,54.0,Other,IT,Bachelor's,30.0,147082.0,3.7,19.0,Yes
+EMP1455,45.0,Female,Human Resources,Master's,23.0,123691.89,3.5,5.0,No
+EMP1456,32.0,Female,IT,Master's,7.0,66903.27,2.7,9.0,Yes
+EMP1457,38.0,Male,Human Resources,Bachelor's,14.0,67839.22,4.5,11.0,Yes
+EMP1458,25.0,Female,IT,Bachelor's,1.0,46244.21,4.0,10.0,No
+EMP1459,46.0,Female,IT,High School,21.0,118258.7,3.1,12.0,No
+EMP1460,51.0,Male,IT,Bachelor's,29.0,152501.31,4.3,14.0,No
+EMP1461,30.0,Male,Sales,Bachelor's,6.0,56684.19,3.1,9.0,No
+EMP1462,42.0,Female,Finance,Bachelor's,20.0,109942.87,2.9,13.0,No
+EMP1463,41.0,Male,Sales,Master's,17.0,108269.5,2.9,12.0,Yes
+EMP1464,40.0,Female,Operations,Master's,17.0,90151.29,2.1,13.0,Yes
+EMP1465,40.0,Female,Data Science,Bachelor's,16.0,105057.4,3.9,10.0,Yes
+EMP1466,33.0,Male,Data Science,Bachelor's,8.0,79952.12,2.0,6.0,No
+EMP1467,58.0,Male,Marketing,Master's,33.0,159746.09,2.5,15.0,No
+EMP1468,38.0,Male,IT,Master's,16.0,103450.97,1.8,12.0,Yes
+EMP1469,58.0,Male,Operations,Bachelor's,34.0,154172.21,3.4,11.0,No
+EMP1470,49.0,Male,IT,High School,27.0,124058.36,3.4,9.0,No
+EMP1471,56.0,Female,Operations,Bachelor's,34.0,150708.76,3.2,10.0,Yes
+EMP1472,39.0,Male,IT,Bachelor's,16.0,103267.54,2.7,4.0,Yes
+EMP1473,35.0,Male,Marketing,PhD,12.0,86088.53,2.6,16.0,No
+EMP1474,56.0,Male,Sales,Bachelor's,31.0,146794.92,3.9,8.0,No
+EMP1475,28.0,Female,Operations,Master's,6.0,63234.36,3.1,11.0,No
+EMP1476,34.0,Male,IT,Bachelor's,9.0,74787.25,3.8,15.0,Yes
+EMP1477,39.0,Male,Sales,Bachelor's,15.0,91352.32,2.8,5.0,No
+EMP1478,58.0,Female,Operations,High School,36.0,153186.34,3.6,11.0,Yes
+EMP1479,34.0,Female,Sales,Bachelor's,,78966.94,4.5,19.0,Yes
+EMP1480,57.0,Male,Sales,PhD,33.0,168551.08,4.0,9.0,No
+EMP1481,52.0,Female,Sales,Bachelor's,28.0,136784.86,3.2,17.0,Yes
+EMP1482,23.0,Male,Human Resources,Bachelor's,0.0,30067.34,3.7,15.0,No
+EMP1483,37.0,Male,Sales,Bachelor's,12.0,81121.08,3.3,12.0,Yes
+EMP1484,30.0,Male,Sales,Master's,6.0,67573.05,3.5,7.0,No
+EMP1485,30.0,Male,Marketing,Bachelor's,5.0,44250.29,3.2,9.0,No
+EMP1486,59.0,Female,IT,Master's,35.0,178295.37,3.4,14.0,Yes
+EMP1487,32.0,Male,Data Science,Bachelor's,10.0,84318.73,3.7,13.0,No
+EMP1488,43.0,Male,Operations,High School,21.0,107627.45,2.7,11.0,Yes
+EMP1489,54.0,Female,Marketing,Bachelor's,31.0,151486.23,2.7,17.0,No
+EMP1490,57.0,Female,Human Resources,Master's,35.0,,2.4,13.0,Yes
+EMP1491,44.0,Male,Sales,Master's,20.0,109452.79,2.2,9.0,Yes
+EMP1492,55.0,Female,Data Science,Master's,30.0,159557.26,2.5,19.0,Yes
+EMP1493,30.0,Male,IT,Master's,7.0,70581.23,3.6,16.0,Yes
+EMP1494,45.0,Female,Human Resources,Master's,20.0,116674.68,2.8,12.0,No
+EMP1495,29.0,Female,Data Science,Master's,5.0,69216.14,3.9,12.0,Yes
+EMP1496,28.0,Female,Sales,Bachelor's,6.0,56222.27,3.5,12.0,Yes
+EMP1497,57.0,Male,IT,Bachelor's,34.0,165021.95,1.9,13.0,No
+EMP1498,39.0,Male,Operations,PhD,15.0,93489.25,4.0,13.0,Yes
+EMP1499,24.0,Male,Operations,Master's,1.0,41521.6,4.1,8.0,No
+EMP1500,49.0,Male,Sales,Master's,26.0,135587.27,2.7,20.0,No
+EMP1501,27.0,Male,Sales,Bachelor's,5.0,53835.7,3.8,11.0,No
+EMP1502,42.0,Female,Data Science,Bachelor's,18.0,113533.07,2.8,13.0,No
+EMP1503,49.0,Male,Finance,Bachelor's,24.0,123353.34,3.6,11.0,No
+EMP1504,22.0,Male,Sales,Master's,0.0,35427.65,2.5,21.0,Yes
+EMP1505,57.0,Female,IT,Bachelor's,34.0,165607.97,2.1,11.0,No
+EMP1506,42.0,Male,Marketing,Bachelor's,17.0,105274.67,3.2,9.0,No
+EMP1507,56.0,Female,Marketing,Bachelor's,32.0,149092.01,3.4,8.0,No
+EMP1508,,Male,Operations,Bachelor's,11.0,74626.32,3.2,12.0,No
+EMP1509,31.0,Male,Finance,Master's,8.0,78463.61,2.6,16.0,No
+EMP1510,31.0,Male,Sales,Bachelor's,8.0,59653.35,3.2,12.0,No
+EMP1511,34.0,Male,Human Resources,Master's,10.0,81512.57,3.7,9.0,No
+EMP1512,58.0,Female,Operations,Bachelor's,34.0,155011.64,3.5,15.0,No
+EMP1513,59.0,Male,Marketing,Bachelor's,34.0,164159.28,3.6,10.0,No
+EMP1514,45.0,Male,IT,Bachelor's,21.0,114834.84,3.0,18.0,Yes
+EMP1515,23.0,Male,IT,Bachelor's,0.0,54090.31,4.4,6.0,No
+EMP1516,43.0,Male,Data Science,Bachelor's,21.0,128375.78,2.6,12.0,No
+EMP1517,38.0,Female,Finance,Bachelor's,13.0,90265.2,3.9,22.0,Yes
+EMP1518,57.0,Male,Operations,Master's,34.0,160170.12,4.4,12.0,Yes
+EMP1519,35.0,Female,IT,Bachelor's,11.0,82257.36,3.9,13.0,No
+EMP1520,31.0,Female,Sales,Master's,8.0,77002.66,3.3,8.0,Yes
+EMP1521,56.0,Female,Data Science,Master's,33.0,172201.8,3.1,10.0,Yes
+EMP1522,46.0,Female,Operations,Master's,24.0,114164.65,4.3,13.0,No
+EMP1523,24.0,Male,Marketing,Bachelor's,0.0,31414.07,2.4,15.0,Yes
+EMP1524,59.0,Male,Marketing,Bachelor's,34.0,155070.77,2.7,11.0,No
+EMP1525,38.0,Male,Human Resources,Bachelor's,14.0,83549.99,3.2,9.0,Yes
+EMP1526,33.0,Female,Human Resources,Bachelor's,10.0,67717.06,4.5,8.0,Yes
+EMP1527,45.0,Other,Data Science,High School,20.0,124094.85,3.8,8.0,No
+EMP1528,50.0,Male,IT,Bachelor's,26.0,126244.49,2.7,14.0,No
+EMP1529,46.0,Female,Marketing,Bachelor's,23.0,118217.94,3.3,11.0,Yes
+EMP1530,57.0,Male,Finance,Master's,34.0,156910.1,3.0,13.0,Yes
+EMP1531,47.0,Female,Operations,Master's,25.0,131298.56,2.9,6.0,No
+EMP1532,59.0,Male,Operations,Master's,37.0,169027.71,4.3,18.0,Yes
+EMP1533,22.0,Female,Sales,Bachelor's,0.0,40098.05,2.4,11.0,Yes
+EMP1534,41.0,Female,Finance,Bachelor's,18.0,100680.59,4.8,15.0,Yes
+EMP1535,49.0,Male,Operations,Bachelor's,25.0,128897.32,4.2,14.0,No
+EMP1536,,Male,Marketing,Bachelor's,15.0,94708.62,4.4,12.0,No
+EMP1537,38.0,Male,IT,Bachelor's,14.0,96917.72,3.1,11.0,No
+EMP1538,49.0,Male,Human Resources,Bachelor's,27.0,126852.41,3.4,11.0,No
+EMP1539,33.0,Male,IT,Bachelor's,8.0,75899.29,2.4,15.0,No
+EMP1540,48.0,Female,Operations,Bachelor's,23.0,111965.54,3.1,7.0,No
+EMP1541,51.0,Female,Sales,Bachelor's,29.0,143777.78,3.9,18.0,No
+EMP1542,55.0,Male,IT,Master's,32.0,170247.4,4.5,12.0,Yes
+EMP1543,58.0,Male,Sales,Master's,36.0,174353.05,2.6,10.0,No
+EMP1544,27.0,Female,Sales,Master's,5.0,56851.99,3.2,12.0,No
+EMP1545,28.0,Female,Data Science,Bachelor's,5.0,70307.09,3.4,7.0,No
+EMP1546,53.0,Male,IT,Bachelor's,28.0,136534.29,2.4,19.0,Yes
+EMP1547,53.0,Female,Sales,Bachelor's,29.0,142361.95,4.0,9.0,Yes
+EMP1548,46.0,Female,Sales,Master's,24.0,129253.02,2.9,7.0,No
+EMP1549,54.0,Male,Finance,Master's,31.0,146150.92,3.3,8.0,No
+EMP1550,28.0,Male,Sales,Bachelor's,6.0,53191.08,3.1,12.0,No
+EMP1551,33.0,Male,Marketing,PhD,10.0,82584.31,2.9,7.0,Yes
+EMP1552,37.0,Male,Sales,Bachelor's,13.0,81995.7,3.5,12.0,No
+EMP1553,37.0,Female,Sales,Bachelor's,13.0,77452.62,3.3,16.0,No
+EMP1554,57.0,Female,Marketing,Master's,32.0,155944.89,3.2,15.0,No
+EMP1555,34.0,Female,Human Resources,PhD,11.0,84757.37,2.9,13.0,No
+EMP1556,28.0,Male,IT,Master's,5.0,66528.65,3.8,11.0,No
+EMP1557,57.0,Male,IT,Master's,32.0,158221.04,4.8,14.0,No
+EMP1558,30.0,Female,Finance,Bachelor's,5.0,64743.54,3.6,13.0,No
+EMP1559,53.0,Female,Sales,Master's,30.0,156277.04,4.3,17.0,No
+EMP1560,32.0,Male,Finance,Bachelor's,7.0,64082.19,2.4,6.0,Yes
+EMP1561,29.0,Male,IT,PhD,5.0,71439.17,3.6,12.0,Yes
+EMP1562,54.0,Female,IT,Bachelor's,32.0,159456.04,2.6,9.0,No
+EMP1563,44.0,Male,IT,Master's,20.0,118209.85,2.3,10.0,No
+EMP1564,46.0,Male,Data Science,Bachelor's,21.0,123803.01,2.9,9.0,No
+EMP1565,29.0,Female,Sales,Master's,6.0,67698.27,4.5,9.0,No
+EMP1566,43.0,Male,Data Science,Bachelor's,20.0,111453.22,4.3,7.0,Yes
+EMP1567,25.0,Male,Human Resources,Master's,1.0,48091.51,3.7,13.0,No
+EMP1568,24.0,Male,Marketing,Bachelor's,1.0,40863.4,2.3,10.0,No
+EMP1569,50.0,Male,Data Science,Bachelor's,25.0,136442.53,3.3,10.0,Yes
+EMP1570,50.0,Female,Sales,Bachelor's,26.0,128553.83,3.7,8.0,Yes
+EMP1571,55.0,Male,Finance,Bachelor's,32.0,153812.15,3.6,10.0,No
+EMP1572,55.0,Male,Data Science,PhD,33.0,169843.99,2.0,9.0,Yes
+EMP1573,49.0,Female,Sales,Bachelor's,27.0,139974.69,2.8,13.0,No
+EMP1574,34.0,Female,Marketing,High School,9.0,65706.63,3.4,13.0,Yes
+EMP1575,36.0,Female,Operations,Bachelor's,13.0,82715.01,3.9,14.0,No
+EMP1576,44.0,Male,IT,Bachelor's,19.0,116257.75,1.7,16.0,No
+EMP1577,47.0,Male,Operations,Master's,23.0,115394.19,3.4,14.0,No
+EMP1578,25.0,Other,Human Resources,Master's,3.0,50867.36,3.6,11.0,Yes
+EMP1579,47.0,Female,Data Science,Bachelor's,23.0,130161.79,4.2,12.0,No
+EMP1580,30.0,Male,Human Resources,Master's,7.0,66733.85,4.1,15.0,Yes
+EMP1581,26.0,Male,Operations,Master's,1.0,32863.86,4.0,13.0,Yes
+EMP1582,53.0,Male,Human Resources,Bachelor's,28.0,130504.53,2.9,14.0,No
+EMP1583,41.0,Female,Data Science,High School,16.0,100985.9,2.0,16.0,No
+EMP1584,32.0,Male,Sales,High School,8.0,65161.31,3.2,13.0,No
+EMP1585,36.0,Male,IT,Master's,14.0,101350.22,4.3,11.0,Yes
+EMP1586,53.0,Male,IT,Bachelor's,29.0,142961.87,4.6,12.0,Yes
+EMP1587,49.0,Female,IT,Master's,25.0,133939.13,4.1,18.0,Yes
+EMP1588,43.0,Female,IT,Bachelor's,20.0,114446.67,3.8,7.0,No
+EMP1589,38.0,Male,IT,Bachelor's,15.0,93016.79,3.8,16.0,No
+EMP1590,47.0,Female,IT,Bachelor's,24.0,133209.92,3.1,6.0,No
+EMP1591,28.0,Female,Sales,Bachelor's,6.0,57153.96,3.4,9.0,No
+EMP1592,47.0,Male,IT,Master's,25.0,122965.06,4.8,15.0,Yes
+EMP1593,46.0,Male,Data Science,Master's,23.0,134625.89,2.7,16.0,Yes
+EMP1594,31.0,Male,Marketing,Master's,8.0,64807.28,4.8,13.0,Yes
+EMP1595,40.0,Female,Human Resources,Bachelor's,18.0,87843.62,3.2,10.0,No
+EMP1596,32.0,Female,Sales,Bachelor's,7.0,56312.87,4.6,12.0,Yes
+EMP1597,34.0,Female,IT,Bachelor's,12.0,87547.04,2.4,18.0,No
+EMP1598,29.0,Female,IT,High School,7.0,73143.2,4.0,8.0,Yes
+EMP1599,25.0,Male,IT,Bachelor's,3.0,57065.92,2.9,19.0,No
+EMP1600,52.0,Female,IT,Master's,29.0,148467.48,2.4,8.0,No
+EMP1601,49.0,Male,Data Science,Master's,24.0,142279.52,3.7,13.0,No
+EMP1602,32.0,Male,IT,Bachelor's,,77704.55,4.3,14.0,No
+EMP1603,22.0,Female,IT,Master's,0.0,46527.0,2.8,10.0,No
+EMP1604,59.0,Female,IT,Bachelor's,35.0,161728.19,2.3,10.0,Yes
+EMP1605,45.0,Male,Human Resources,PhD,21.0,109740.86,3.4,16.0,No
+EMP1606,52.0,Female,IT,PhD,30.0,160050.38,3.4,10.0,No
+EMP1607,47.0,Female,Data Science,Bachelor's,23.0,132290.27,3.9,8.0,Yes
+EMP1608,26.0,Male,Sales,Bachelor's,1.0,41016.88,4.3,23.0,Yes
+EMP1609,41.0,Other,Sales,Master's,17.0,100420.17,3.5,17.0,No
+EMP1610,32.0,Male,IT,PhD,8.0,80271.27,5.0,13.0,No
+EMP1611,54.0,Male,Finance,Bachelor's,29.0,146541.23,3.7,11.0,No
+EMP1612,59.0,Male,Sales,Master's,37.0,165914.34,3.2,15.0,No
+EMP1613,48.0,Female,IT,Master's,26.0,144880.14,2.2,10.0,Yes
+EMP1614,55.0,Female,Marketing,Master's,30.0,141988.91,3.3,12.0,Yes
+EMP1615,36.0,Male,Operations,Bachelor's,11.0,69737.82,3.2,16.0,No
+EMP1616,53.0,Male,IT,Master's,28.0,140666.07,4.3,16.0,Yes
+EMP1617,42.0,Female,Data Science,PhD,18.0,123492.99,3.9,11.0,No
+EMP1618,26.0,Male,Finance,Bachelor's,1.0,50376.56,2.6,12.0,No
+EMP1619,27.0,Female,Finance,Bachelor's,4.0,58578.14,3.6,21.0,Yes
+EMP1620,59.0,Female,IT,High School,35.0,169392.11,4.0,7.0,No
+EMP1621,43.0,Male,IT,Bachelor's,21.0,121110.71,4.7,5.0,Yes
+EMP1622,39.0,Female,Data Science,Master's,17.0,109981.65,4.2,9.0,No
+EMP1623,35.0,Male,Human Resources,Bachelor's,13.0,76846.05,4.1,11.0,Yes
+EMP1624,31.0,Other,Sales,Bachelor's,7.0,58599.0,3.5,15.0,No
+EMP1625,34.0,Female,Data Science,PhD,11.0,108152.87,3.8,10.0,Yes
+EMP1626,52.0,Female,Human Resources,Bachelor's,27.0,121516.06,4.5,15.0,No
+EMP1627,51.0,Male,Finance,Bachelor's,26.0,,2.4,12.0,No
+EMP1628,24.0,Female,IT,Bachelor's,2.0,,3.2,16.0,Yes
+EMP1629,51.0,Male,Data Science,Master's,29.0,166648.1,2.9,12.0,No
+EMP1630,27.0,Male,Finance,Bachelor's,3.0,50451.57,3.8,9.0,Yes
+EMP1631,50.0,Male,Marketing,Bachelor's,27.0,135061.61,4.5,8.0,No
+EMP1632,29.0,Female,Sales,High School,4.0,60408.26,3.0,14.0,Yes
+EMP1633,54.0,Male,Sales,Bachelor's,30.0,139911.79,1.6,18.0,No
+EMP1634,38.0,Female,IT,Master's,13.0,87824.8,3.2,17.0,Yes
+EMP1635,32.0,Female,Human Resources,Bachelor's,10.0,58599.95,4.2,11.0,No
+EMP1636,34.0,Male,Sales,Master's,9.0,78063.56,3.9,18.0,Yes
+EMP1637,32.0,Female,IT,Bachelor's,9.0,67084.25,3.8,7.0,No
+EMP1638,52.0,Male,Data Science,High School,29.0,147638.4,3.3,18.0,Yes
+EMP1639,49.0,Female,Data Science,Bachelor's,27.0,147686.57,2.5,11.0,No
+EMP1640,27.0,Female,IT,Bachelor's,4.0,59925.88,3.9,13.0,No
+EMP1641,37.0,Female,Data Science,Bachelor's,14.0,102127.22,2.8,13.0,Yes
+EMP1642,25.0,Female,IT,Bachelor's,1.0,49611.45,5.0,20.0,No
+EMP1643,56.0,Male,Data Science,Bachelor's,31.0,165894.33,4.0,12.0,Yes
+EMP1644,,Male,IT,Bachelor's,25.0,127738.42,3.0,11.0,Yes
+EMP1645,33.0,Female,Marketing,Master's,11.0,77115.02,3.0,12.0,No
+EMP1646,32.0,Male,Sales,Bachelor's,10.0,69136.7,3.4,13.0,No
+EMP1647,58.0,Male,Sales,Bachelor's,36.0,168150.96,3.3,16.0,No
+EMP1648,46.0,Male,Finance,Master's,24.0,135501.99,4.4,8.0,Yes
+EMP1649,39.0,Female,Human Resources,Master's,16.0,96256.13,3.6,15.0,Yes
+EMP1650,40.0,Male,IT,Bachelor's,16.0,106917.47,2.9,15.0,Yes
+EMP1651,44.0,Male,Sales,Bachelor's,22.0,109109.8,5.0,10.0,No
+EMP1652,59.0,Female,Sales,Bachelor's,35.0,168836.12,3.5,9.0,No
+EMP1653,39.0,Female,Finance,Master's,15.0,107116.19,4.1,8.0,No
+EMP1654,47.0,Male,Human Resources,Master's,24.0,125678.11,3.0,12.0,Yes
+EMP1655,27.0,Male,IT,Bachelor's,5.0,71408.99,3.8,18.0,Yes
+EMP1656,25.0,Male,Data Science,Master's,2.0,54716.88,3.7,12.0,Yes
+EMP1657,50.0,Male,Data Science,Master's,28.0,151377.76,2.0,15.0,Yes
+EMP1658,55.0,Male,Sales,Master's,32.0,151323.48,5.0,10.0,Yes
+EMP1659,38.0,Female,Sales,Master's,14.0,95607.4,4.5,9.0,No
+EMP1660,37.0,Female,Data Science,Bachelor's,15.0,98249.3,3.2,9.0,No
+EMP1661,23.0,Female,Operations,Bachelor's,0.0,38787.48,2.6,9.0,No
+EMP1662,55.0,Male,Sales,Bachelor's,31.0,153352.68,3.8,16.0,No
+EMP1663,29.0,Female,IT,Bachelor's,4.0,62476.01,3.6,8.0,Yes
+EMP1664,34.0,Male,IT,Bachelor's,10.0,81418.76,3.8,10.0,No
+EMP1665,29.0,Female,IT,PhD,,73060.63,3.7,11.0,Yes
+EMP1666,51.0,Female,IT,Bachelor's,29.0,,3.9,13.0,No
+EMP1667,53.0,Male,IT,Bachelor's,,152748.09,4.7,19.0,No
+EMP1668,57.0,Female,IT,Bachelor's,34.0,167896.75,4.0,9.0,Yes
+EMP1669,51.0,Male,Data Science,PhD,29.0,164304.9,2.7,13.0,No
+EMP1670,22.0,Female,IT,Bachelor's,0.0,42910.45,4.6,11.0,Yes
+EMP1671,38.0,Male,Marketing,Bachelor's,14.0,75870.96,4.8,14.0,No
+EMP1672,41.0,Male,IT,Bachelor's,19.0,106145.74,5.0,10.0,No
+EMP1673,45.0,Female,Sales,Bachelor's,21.0,121057.1,2.6,11.0,Yes
+EMP1674,43.0,Male,Human Resources,High School,21.0,97097.72,3.7,19.0,No
+EMP1675,50.0,Female,Operations,High School,25.0,120447.4,1.8,10.0,No
+EMP1676,,Male,IT,Bachelor's,20.0,120037.22,3.9,12.0,No
+EMP1677,30.0,Female,Data Science,High School,5.0,59225.39,3.1,14.0,Yes
+EMP1678,58.0,Female,Operations,Master's,34.0,159923.55,5.0,13.0,No
+EMP1679,31.0,Male,Marketing,Master's,6.0,67689.58,2.9,7.0,Yes
+EMP1680,57.0,Male,Finance,Bachelor's,33.0,157562.5,2.1,17.0,Yes
+EMP1681,58.0,Male,Data Science,Bachelor's,36.0,191342.02,3.1,15.0,Yes
+EMP1682,49.0,Male,IT,Bachelor's,27.0,131157.0,1.9,11.0,Yes
+EMP1683,49.0,Male,Sales,Master's,25.0,135793.64,4.1,16.0,Yes
+EMP1684,42.0,Female,Operations,Bachelor's,,93635.99,1.8,12.0,No
+EMP1685,45.0,Female,Sales,Bachelor's,23.0,122359.6,3.5,12.0,Yes
+EMP1686,23.0,Female,Sales,Bachelor's,0.0,40206.54,1.8,20.0,Yes
+EMP1687,29.0,Female,Data Science,Master's,7.0,76834.22,3.2,10.0,Yes
+EMP1688,48.0,Female,Finance,Bachelor's,,130644.98,4.8,16.0,No
+EMP1689,43.0,Female,IT,Master's,18.0,103710.49,3.8,14.0,No
+EMP1690,58.0,Male,Data Science,High School,35.0,173516.24,2.8,8.0,Yes
+EMP1691,48.0,Female,Human Resources,Bachelor's,25.0,121990.79,3.5,5.0,Yes
+EMP1692,50.0,Female,Sales,Master's,27.0,140693.3,3.5,12.0,Yes
+EMP1693,24.0,Female,IT,Bachelor's,,53790.59,3.9,15.0,Yes
+EMP1694,34.0,Male,IT,Master's,12.0,93838.1,2.4,8.0,Yes
+EMP1695,31.0,Male,Sales,Bachelor's,8.0,66740.45,4.0,16.0,No
+EMP1696,57.0,Male,Data Science,Master's,35.0,174094.66,1.3,11.0,Yes
+EMP1697,30.0,Female,Sales,Master's,7.0,63938.9,3.0,8.0,No
+EMP1698,48.0,Female,IT,PhD,24.0,146933.67,3.1,19.0,Yes
+EMP1699,55.0,Male,Human Resources,Master's,30.0,150181.68,4.0,9.0,No
+EMP1700,22.0,Female,Sales,Bachelor's,0.0,,3.5,18.0,No
+EMP1701,53.0,Male,IT,Master's,29.0,151730.01,2.4,10.0,No
+EMP1702,46.0,Male,Data Science,Master's,23.0,131976.93,2.7,10.0,Yes
+EMP1703,50.0,Male,IT,Master's,27.0,150363.78,3.7,12.0,Yes
+EMP1704,28.0,Female,IT,Bachelor's,5.0,65827.08,3.4,9.0,Yes
+EMP1705,24.0,Female,Operations,PhD,0.0,56706.09,3.0,9.0,No
+EMP1706,,Male,Data Science,Master's,16.0,107608.38,3.1,10.0,No
+EMP1707,41.0,Female,Finance,Master's,17.0,104609.96,4.1,12.0,No
+EMP1708,51.0,Male,Data Science,Bachelor's,26.0,143157.23,3.1,9.0,No
+EMP1709,56.0,Female,Sales,Master's,,161732.45,3.4,10.0,Yes
+EMP1710,56.0,Female,Finance,Bachelor's,34.0,159921.66,5.0,12.0,No
+EMP1711,48.0,Female,Sales,Master's,25.0,126135.19,2.4,13.0,Yes
+EMP1712,47.0,Male,Human Resources,Bachelor's,22.0,114407.04,2.0,11.0,Yes
+EMP1713,35.0,Female,Human Resources,Master's,11.0,80105.68,4.1,14.0,Yes
+EMP1714,38.0,Female,Data Science,High School,15.0,95918.63,3.0,13.0,Yes
+EMP1715,39.0,Male,Operations,Bachelor's,15.0,94277.21,3.2,11.0,No
+EMP1716,50.0,Female,Marketing,High School,26.0,130850.99,2.9,9.0,Yes
+EMP1717,,Male,Operations,Bachelor's,17.0,95171.48,3.3,12.0,No
+EMP1718,48.0,Female,IT,PhD,25.0,144897.99,4.8,15.0,No
+EMP1719,39.0,Male,Finance,Master's,15.0,102270.29,4.1,13.0,No
+EMP1720,25.0,Female,Operations,Master's,1.0,39191.48,4.2,18.0,Yes
+EMP1721,22.0,Female,IT,Master's,0.0,50150.16,2.4,14.0,No
+EMP1722,22.0,Male,IT,PhD,0.0,46238.08,2.6,9.0,No
+EMP1723,47.0,Male,Finance,Bachelor's,24.0,130382.28,1.2,17.0,No
+EMP1724,41.0,Male,Sales,Bachelor's,16.0,86192.53,2.9,18.0,Yes
+EMP1725,44.0,Male,Marketing,Master's,19.0,116017.1,4.3,12.0,No
+EMP1726,31.0,Male,IT,Master's,6.0,69349.4,3.9,15.0,No
+EMP1727,32.0,Female,Finance,Master's,8.0,73941.67,3.3,19.0,No
+EMP1728,,Male,IT,Master's,4.0,60861.33,3.5,14.0,No
+EMP1729,22.0,Male,IT,Bachelor's,0.0,43559.81,2.9,7.0,No
+EMP1730,38.0,Female,IT,Master's,14.0,106092.66,3.7,8.0,Yes
+EMP1731,43.0,Male,Finance,Bachelor's,21.0,103060.96,4.1,10.0,Yes
+EMP1732,55.0,Female,Sales,Bachelor's,32.0,156384.83,2.2,13.0,Yes
+EMP1733,50.0,Female,Sales,Bachelor's,28.0,137690.12,3.7,12.0,No
+EMP1734,25.0,Female,Data Science,Bachelor's,1.0,48464.89,4.2,13.0,No
+EMP1735,26.0,Female,Marketing,Bachelor's,2.0,38623.44,3.2,13.0,Yes
+EMP1736,32.0,Female,Data Science,Bachelor's,9.0,90881.97,4.1,10.0,No
+EMP1737,42.0,Male,Finance,Master's,17.0,101772.47,5.0,11.0,No
+EMP1738,,Male,Human Resources,Bachelor's,32.0,139233.25,3.4,14.0,Yes
+EMP1739,,Male,Data Science,Bachelor's,10.0,91686.57,3.8,14.0,Yes
+EMP1740,47.0,Female,Human Resources,Bachelor's,25.0,122192.76,2.9,10.0,Yes
+EMP1741,40.0,Male,Data Science,Bachelor's,18.0,109310.37,3.6,14.0,Yes
+EMP1742,28.0,Female,Finance,Bachelor's,5.0,60583.12,3.9,10.0,Yes
+EMP1743,28.0,Other,Sales,Bachelor's,5.0,50371.24,3.7,16.0,Yes
+EMP1744,47.0,Female,IT,Master's,23.0,136004.11,2.7,20.0,Yes
+EMP1745,26.0,Male,Marketing,Master's,4.0,61306.85,3.7,9.0,No
+EMP1746,42.0,Male,Data Science,Master's,19.0,125160.03,4.7,17.0,Yes
+EMP1747,35.0,Female,Sales,Bachelor's,13.0,85308.31,3.9,11.0,No
+EMP1748,25.0,Female,Marketing,Bachelor's,2.0,52805.94,4.3,12.0,Yes
+EMP1749,44.0,Male,Sales,Master's,22.0,119998.43,3.3,15.0,Yes
+EMP1000,30.0,Male,Data Science,Bachelor's,7.0,70430.52,2.6,13.0,No
+EMP1001,,Male,Operations,PhD,5.0,64928.44,3.9,10.0,No
+EMP1002,25.0,Male,Finance,Master's,1.0,45872.88,5.0,14.0,No
+EMP1003,56.0,Male,Sales,Bachelor's,33.0,154776.92,2.7,8.0,Yes
+EMP1004,38.0,Male,IT,Bachelor's,13.0,86023.27,3.2,12.0,No
+EMP1005,55.0,Male,IT,Master's,33.0,163459.5,3.8,13.0,No
+EMP1006,45.0,Female,IT,Master's,23.0,125520.92,3.5,10.0,Yes
+EMP1007,53.0,Male,Marketing,Bachelor's,28.0,138255.68,2.7,9.0,No
+EMP1008,22.0,Female,Sales,PhD,0.0,54292.26,4.4,9.0,Yes
+EMP1009,29.0,Female,Finance,Master's,4.0,59826.9,5.0,11.0,Yes
+EMP1010,44.0,Female,IT,Bachelor's,20.0,115191.19,3.7,11.0,Yes
+EMP1011,33.0,Female,Operations,Bachelor's,8.0,55757.04,2.8,17.0,No
